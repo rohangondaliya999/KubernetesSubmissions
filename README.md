@@ -1,1 +1,1 @@
-# KubernetesSubmissions
+# kuber_prac
