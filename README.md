@@ -1,1 +1,1 @@
-# kuber_prac
+# kubernetes practicals
